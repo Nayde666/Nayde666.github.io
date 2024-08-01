@@ -1,0 +1,80 @@
+*{
+    font-family: "Roboto";
+}
+body{
+    background-color: white;
+}
+header{
+    background-color: #561C24;
+}
+header span{
+    color: white;
+}
+#sobre-mi-boton{
+    background-color: white;
+    color: #6D2932;
+}
+#sobre-mi-boton:hover{
+    transform: scale(1.1);
+}
+.nav-item a{
+    color: #F8EDED;
+}
+/* Link visitado*/
+.nav-item a:visited{
+    color: #F8EDED;
+}
+.nav-item a:hover{
+    color: #C7B7A3;
+}
+#button-trayectoria{
+    background-color: white;
+    color: #b5a38e;
+    border-color: #b5a38e;
+}
+#button-trayectoria:hover{
+    background-color: #b5a38e;
+    transform: scale(1.1);
+    color: white;
+}
+/*Botones Habilidades*/
+.boton-habilidad{
+    color: #6D2932;
+    font-size: 2em;
+}
+/*Icono contacto*/
+.icono-contacto{
+    color: #6D2932;
+    font-size: 3em;
+}
+/*Proyectos*/
+.proyecto a{
+    color: white;
+    text-decoration: none;
+}
+.proyecto{
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+.proyecto::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+    pointer-events: none; 
+}
+.proyecto .d-flex.flex-column {
+    position: relative;
+    z-index: 2; 
+}
+/*Foioter*/
+footer {
+    background-color: #561C24;
+    color: #b5a38e;
+}
+.iconos-redes a{
+    font-size: 2em;
+}
