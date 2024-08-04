@@ -7,5 +7,9 @@ var typewriter = new Typewriter(app, {
 typewriter.typeString('Ing. en Sistemas Computacionales | Desarrolladora Frontend Jr.')
     .pauseFor(2500)
     .deleteAll()
-    .deleteChars(7)
+    .typeString('Si lo puedes imaginaar lo puedes crear!')
+    .pauseFor(2500)
+    .deleteChars(6)
+    .typeString('<strong>programar!</strong>')
+    .pauseFor(2500)
     .start();
