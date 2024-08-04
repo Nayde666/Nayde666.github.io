@@ -75,6 +75,11 @@ footer {
     background-color: #561C24;
     color: #b5a38e;
 }
-.iconos-redes a{
+footer a{
+    text-decoration: none;
+    color: #b5a38e;
+}
+footer .iconos-redes i{
+    color: #F8EDED;
     font-size: 2em;
 }
