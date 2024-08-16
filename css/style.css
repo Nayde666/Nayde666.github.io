@@ -70,8 +70,8 @@ header span{
     color: #C7B7A3;
 }
 #button-trayectoria{
-    background-color: white;
-    color: #b5a38e;
+    background-color: #b5a38e;
+    color: white;
     border-color: #b5a38e;
 }
 #button-trayectoria:hover{

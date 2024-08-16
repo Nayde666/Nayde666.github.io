@@ -17,8 +17,18 @@ Podrás encontrarlo aquí [Portafolio](https://Nayde666.github.io/).
 ### El proyecto cuenta con las siguientes secciones:
 * Sobre mí
 * Habilidades
-* Proyectos
+* Proyectos (Cada proyecto cuenta con su propio link para ver la previsualización del proyecto, con dar click en el titulo basta)
 * Testimonios
 * Contacto
 * Visibilidad para un modo "Claro" o "Oscuro"
 
+# Vista Previa:
+![alt text](image.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
